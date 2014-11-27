@@ -1,8 +1,8 @@
 <?php if(!defined('IN_DISCUZ')) exit('Access Denied'); 
 0
-|| checktplrefresh('./template/default/common/header.htm', './template/default/common/header_common.htm', 1404133777, '1', './data/template/1_1_common_header_home_misc.tpl.php', './template/default', 'common/header_home_misc')
-|| checktplrefresh('./template/default/common/header.htm', './template/default/common/header_qmenu.htm', 1404133777, '1', './data/template/1_1_common_header_home_misc.tpl.php', './template/default', 'common/header_home_misc')
-|| checktplrefresh('./template/default/common/header.htm', './template/default/common/pubsearchform.htm', 1404133777, '1', './data/template/1_1_common_header_home_misc.tpl.php', './template/default', 'common/header_home_misc')
+|| checktplrefresh('./template/default/common/header.htm', './template/default/common/header_common.htm', 1414969363, '1', './data/template/1_1_common_header_home_misc.tpl.php', './template/default', 'common/header_home_misc')
+|| checktplrefresh('./template/default/common/header.htm', './template/default/common/header_qmenu.htm', 1414969363, '1', './data/template/1_1_common_header_home_misc.tpl.php', './template/default', 'common/header_home_misc')
+|| checktplrefresh('./template/default/common/header.htm', './template/default/common/pubsearchform.htm', 1414969363, '1', './data/template/1_1_common_header_home_misc.tpl.php', './template/default', 'common/header_home_misc')
 ;?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
